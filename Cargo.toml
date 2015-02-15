@@ -1,0 +1,11 @@
+[package]
+
+name = "dds"
+version = "0.0.1"
+authors = ["Pengfei Zhang <zpfalpc23@gmail.com>"]
+
+[dependencies]
+time = "0.1.17"
+
+[dependencies.lazy_static]
+git = "https://github.com/zhangpf/lazy-static.rs"
